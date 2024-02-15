@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Координаты прямоугольника", "Координаты прямоугольника\Координаты прямоугольника.csproj", "{9D9859E1-503F-4E15-B964-7FD5851253E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D9859E1-503F-4E15-B964-7FD5851253E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D9859E1-503F-4E15-B964-7FD5851253E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D9859E1-503F-4E15-B964-7FD5851253E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D9859E1-503F-4E15-B964-7FD5851253E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E709776-6B4C-4B59-8DA8-5524E87B6BD9}
+	EndGlobalSection
+EndGlobal
